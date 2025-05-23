@@ -12,7 +12,7 @@
       "Su corazón fue endurecido",
       "Murió en el Mar Rojo"
     ],
-    "imagen": "src/assets/faraon.jpg",
+    "imagen": "/assets/faraon.jpg",
     "estado": "adivinado"
   },
   {
@@ -28,7 +28,7 @@
       "Vivió como una bestia por 7 años",
       "Reconoció a Dios después"
     ],
-    "imagen": "src/assets/nabu.png",
+    "imagen": "/assets/nabu.png",
     "estado": "adivinado"
   },
   {
@@ -44,7 +44,7 @@
       "Desobedeció órdenes divinas",
       "Murió en batalla"
     ],
-    "imagen": "src/assets/saul.jpg",
+    "imagen": "/assets/saul.jpg",
     "estado": "adivinado"
   },
   {
@@ -60,7 +60,7 @@
       "Dios lo castigó",
       "Murió leproso"
     ],
-    "imagen": "src/assets/uxias.png",
+    "imagen": "/assets/uxias.png",
     "estado": "adivinado"
   },
   {
@@ -76,7 +76,7 @@
       "Líder de los demonios",
       "Nombre también usado para el diablo"
     ],
-    "imagen": "src/assets/lucifer.png",
+    "imagen": "/assets/lucifer.png",
     "estado": "adivinado"
   },
   {
@@ -92,7 +92,7 @@
       "Gigante filisteo",
       "Derrotado por David"
     ],
-    "imagen": "src/assets/goliat.png",
+    "imagen": "/assets/goliat.png",
     "estado": "adivinado"
   },
   {
@@ -108,7 +108,7 @@
       "Enemigo de Mardoqueo",
       "Fue descubierto por Ester"
     ],
-    "imagen": "src/assets/haman.png",
+    "imagen": "/assets/haman.png",
     "estado": "adivinado"
   },
   {
@@ -124,7 +124,7 @@
       "Murió de forma terrible",
       "Aparece en el libro de Hechos"
     ],
-    "imagen": "src/assets/herodes.png",
+    "imagen": "/assets/herodes.png",
     "estado": "adivinado"
   },
   {
@@ -140,7 +140,7 @@
       "Mago de Samaria",
       "Símbolo de la simonía"
     ],
-    "imagen": "src/assets/simonmago.png",
+    "imagen": "/assets/simonmago.png",
     "estado": "adivinado"
   },
   {
@@ -156,7 +156,7 @@
       "Fue seducido por Dalila",
       "Murió derribando un templo"
     ],
-    "imagen": "src/assets/sanson.png",
+    "imagen": "/assets/sanson.png",
     "estado": "adivinado"
   },
   {
@@ -172,7 +172,7 @@
       "Mató a Abel",
       "Hijo de Adán y Eva"
     ],
-    "imagen": "src/assets/cain.png",
+    "imagen": "/assets/cain.png",
     "estado": "adivinado"
   },
   {
@@ -188,7 +188,7 @@
       "Predicó en Nínive",
       "Se refugió bajo una planta"
     ],
-    "imagen": "src/assets/jonas.png",
+    "imagen": "/assets/jonas.png",
     "estado": "adivinado"
   },
   {
@@ -204,7 +204,7 @@
       "Hijo de David",
       "Construyó el Templo"
     ],
-    "imagen": "src/assets/salomon.png",
+    "imagen": "/assets/salomon.png",
     "estado": "adivinado"
   },
   {
@@ -220,7 +220,7 @@
       "Hijo de David",
       "Fue atravesado por Joab"
     ],
-    "imagen": "src/assets/absalon.png",
+    "imagen": "/assets/absalon.png",
     "estado": "adivinado"
   },
   {
@@ -236,7 +236,7 @@
       "Vio una mano escribir en la pared",
       "Murió esa misma noche"
     ],
-    "imagen": "src/assets/belsasar.png",
+    "imagen": "/assets/belsasar.png",
     "estado": "adivinado"
   },
   {
@@ -252,7 +252,7 @@
       "Imponían cargas pesadas al pueblo.",
       "Fueron llamados 'sepulcros blanqueados'."
     ],
-    "imagen": "src/assets/fariseos.png",
+    "imagen": "/assets/fariseos.png",
     "estado": "no adivinado"
   },
   {
@@ -268,7 +268,7 @@
       "Dios confundió su lenguaje.",
       "Fueron dispersados por toda la tierra."
     ],
-    "imagen": "src/assets/babel.png",
+    "imagen": "/assets/babel.png",
     "estado": "no adivinado"
   },
   {
@@ -284,7 +284,7 @@
       "Primer rey del reino del norte.",
       "Fue castigado por profetas."
     ],
-    "imagen": "src/assets/jeroban.png",
+    "imagen": "/assets/jeroban.png",
     "estado": "no adivinado"
   },
   {
@@ -300,7 +300,7 @@
       "Ordenó la muerte de Naboth.",
       "Murió violentamente."
     ],
-    "imagen": "src/assets/jezabel.png",
+    "imagen": "/assets/jezabel.png",
     "estado": "no adivinado"
   },
   {
@@ -316,7 +316,7 @@
       "Venció a un gigante.",
       "Escribió muchos salmos."
     ],
-    "imagen": "src/assets/david.png",
+    "imagen": "/assets/david.png",
     "estado": "no adivinado"
   },
   {
@@ -332,7 +332,7 @@
       "Pariente de Abraham.",
       "Su esposa se convirtió en estatua de sal."
     ],
-    "imagen": "src/assets/lot.png",
+    "imagen": "/assets/lot.png",
     "estado": "no adivinado"
   },
   {
@@ -348,7 +348,7 @@
       "Tuvo una burra que habló.",
       "Finalmente bendijo a Israel."
     ],
-    "imagen": "src/assets/balaam.png",
+    "imagen": "/assets/balaam.png",
     "estado": "no adivinado"
   },
   {
@@ -365,7 +365,7 @@
       "Enfermo y recuperado milagrosamente.",
       "Confesó su dependencia de Dios."
     ],
-    "imagen": "src/assets/Ezequias.png",
+    "imagen": "/assets/Ezequias.png",
     "estado": "no adivinado"
   },
   {
@@ -381,7 +381,7 @@
       "Miembro de los Vengadores",
       "Aprendió humildad con el tiempo"
     ],
-    "imagen": "src/assets/tony.png",
+    "imagen": "/assets/tony.png",
     "estado": "adivinado"
   },
   {
@@ -397,7 +397,7 @@
       "Fue entrenado por el Anciano",
       "Arrogante pero valiente"
     ],
-    "imagen": "src/assets/strange.png",
+    "imagen": "/assets/strange.png",
     "estado": "adivinado"
   },
   {
@@ -413,7 +413,7 @@
       "Mató a Mufasa",
       "Fue derrocado por Simba"
     ],
-    "imagen": "src/assets/scar.png",
+    "imagen": "/assets/scar.png",
     "estado": "adivinado"
   },
   {
@@ -429,7 +429,7 @@
       "Antes fue Anakin",
       "Redimido al final"
     ],
-    "imagen": "src/assets/dart.png",
+    "imagen": "/assets/dart.png",
     "estado": "adivinado"
   },
   {
@@ -445,7 +445,7 @@
       "Quería el trono de Asgard",
       "Hermano de Thor"
     ],
-    "imagen": "src/assets/loki.png",
+    "imagen": "/assets/loki.png",
     "estado": "adivinado"
   },
   {
@@ -461,7 +461,7 @@
       "Meryl Streep la interpretó",
       "No da las gracias fácilmente"
     ],
-    "imagen": "src/assets/miranda.png",
+    "imagen": "/assets/miranda.png",
     "estado": "adivinado"
   },
   {
@@ -477,7 +477,7 @@
       "Quiere casarse con Bella",
       "Lidera una turba contra la Bestia"
     ],
-    "imagen": "src/assets/Gaston.png",
+    "imagen": "/assets/Gaston.png",
     "estado": "adivinado"
   },
   {
@@ -493,7 +493,7 @@
       "Camina con bastón",
       "Serie protagonizada por Hugh Laurie"
     ],
-    "imagen": "src/assets/house.png",
+    "imagen": "/assets/house.png",
     "estado": "adivinado"
   },
   {
@@ -509,7 +509,7 @@
       "Dice 'Bazinga' al bromear",
       "Personaje de 'The Big Bang Theory'"
     ],
-    "imagen": "src/assets/cheldon.png",
+    "imagen": "/assets/cheldon.png",
     "estado": "adivinado"
   },
   {
@@ -525,7 +525,7 @@
       "Frase famosa: ¡D'oh!",
       "Es el padre de Los Simpson"
     ],
-    "imagen": "src/assets/homero.png",
+    "imagen": "/assets/homero.png",
     "estado": "adivinado"
   },
   {
@@ -541,7 +541,7 @@
       "Es antagonista de 'La Bella Durmiente'",
       "Angelina Jolie la interpretó"
     ],
-    "imagen": "src/assets/malefica.png",
+    "imagen": "/assets/malefica.png",
     "estado": "adivinado"
   },
   {
@@ -557,7 +557,7 @@
       "Rivaliza con James Potter",
       "Pertenece a Slytherin"
     ],
-    "imagen": "src/assets/Severus.png",
+    "imagen": "/assets/Severus.png",
     "estado": "adivinado"
   },
   {
@@ -573,7 +573,7 @@
       "Vivía en las Montañas Nubladas",
       "Su orgullo lo llevó a la perdición"
     ],
-    "imagen": "src/assets/golum.png",
+    "imagen": "/assets/golum.png",
     "estado": "adivinado"
   },
   {
@@ -589,7 +589,7 @@
       "Rival de Batman",
       "Aparece en 'The Dark Knight'"
     ],
-    "imagen": "src/assets/jocker.png",
+    "imagen": "/assets/jocker.png",
     "estado": "adivinado"
   },
   {
@@ -605,7 +605,7 @@
       "Entrenó intensamente bajo gravedad aumentada",
       "Fue controlado por Babidi pero conservó su orgullo"
     ],
-    "imagen": "src/assets/vegueta.png",
+    "imagen": "/assets/vegueta.png",
     "estado": "adivinado"
   },
   {
@@ -621,7 +621,7 @@
       "Le tiene miedo a Don Ramón",
       "Su frase famosa: ¡Cállate, cállate, cállate que me desesperas!"
     ],
-    "imagen": "src/assets/quico.png",
+    "imagen": "/assets/quico.png",
     "estado": "adivinado"
   },
   {
@@ -637,7 +637,7 @@
       "Vivía en Duloc",
       "Bajo de estatura con un gran ego"
     ],
-    "imagen": "src/assets/lord.png",
+    "imagen": "/assets/lord.png",
     "estado": "adivinado"
   }
 ]
