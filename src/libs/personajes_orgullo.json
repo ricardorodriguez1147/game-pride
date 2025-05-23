@@ -1,0 +1,643 @@
+[
+  {
+    "id": 1,
+    "nombre": "Faraón de Egipto",
+    "fuente": "Biblia",
+    "razon_orgullo": "Se negó a liberar al pueblo de Israel a pesar de las plagas enviadas por Dios.",
+    "pistas": [
+      "Gobernante poderoso de Egipto",
+      "Tuvo enfrentamientos con Moisés",
+      "Dios le envió diez plagas",
+      "Se negó a liberar a los esclavos",
+      "Su corazón fue endurecido",
+      "Murió en el Mar Rojo"
+    ],
+    "imagen": "src/assets/faraon.jpg",
+    "estado": "adivinado"
+  },
+  {
+    "id": 2,
+    "nombre": "Rey Nabucodonosor",
+    "fuente": "Biblia",
+    "razon_orgullo": "Se jactó de su imperio y Dios lo humilló haciéndolo vivir como un animal.",
+    "pistas": [
+      "Rey de Babilonia",
+      "Soñó con una estatua de metales",
+      "Construyó una gran estatua de oro",
+      "Fue castigado con locura",
+      "Vivió como una bestia por 7 años",
+      "Reconoció a Dios después"
+    ],
+    "imagen": "src/assets/nabu.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 3,
+    "nombre": "Rey Saúl",
+    "fuente": "Biblia",
+    "razon_orgullo": "Desobedeció a Dios por querer quedar bien con el pueblo.",
+    "pistas": [
+      "Primer rey de Israel",
+      "Persiguió a David",
+      "Consultó a una adivina",
+      "Perdió el favor de Dios",
+      "Desobedeció órdenes divinas",
+      "Murió en batalla"
+    ],
+    "imagen": "src/assets/saul.jpg",
+    "estado": "adivinado"
+  },
+  {
+    "id": 4,
+    "nombre": "Rey Uzías",
+    "fuente": "Biblia",
+    "razon_orgullo": "Se llenó de orgullo y quiso usurpar funciones del sacerdote, y fue castigado con lepra.",
+    "pistas": [
+      "Rey de Judá",
+      "Gobernó durante mucho tiempo",
+      "Fue exitoso al principio",
+      "Entró al templo sin permiso",
+      "Dios lo castigó",
+      "Murió leproso"
+    ],
+    "imagen": "src/assets/uxias.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 5,
+    "nombre": "Lucifer",
+    "fuente": "Biblia",
+    "razon_orgullo": "Fue arrojado del cielo por su orgullo al querer ser como Dios.",
+    "pistas": [
+      "Símbolo del orgullo extremo",
+      "Quiso ser igual a Dios",
+      "Ángel caído",
+      "Fue expulsado del cielo",
+      "Líder de los demonios",
+      "Nombre también usado para el diablo"
+    ],
+    "imagen": "src/assets/lucifer.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 6,
+    "nombre": "Goliat",
+    "fuente": "Biblia",
+    "razon_orgullo": "Se burló del pueblo de Dios confiando en su fuerza física.",
+    "pistas": [
+      "Tenía una gran armadura",
+      "Desafió a Israel",
+      "Fue vencido por un joven",
+      "Murió con una piedra",
+      "Gigante filisteo",
+      "Derrotado por David"
+    ],
+    "imagen": "src/assets/goliat.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 7,
+    "nombre": "Haman",
+    "fuente": "Biblia",
+    "razon_orgullo": "Quiso destruir al pueblo judío por orgullo, y terminó siendo ahorcado.",
+    "pistas": [
+      "Planeó exterminar a los judíos",
+      "Construyó una horca",
+      "Murió en su propia trampa",
+      "Oficial del rey Asuero",
+      "Enemigo de Mardoqueo",
+      "Fue descubierto por Ester"
+    ],
+    "imagen": "src/assets/haman.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 8,
+    "nombre": "Herodes Agripa",
+    "fuente": "Biblia",
+    "razon_orgullo": "Aceptó ser adorado como dios y murió comido por gusanos.",
+    "pistas": [
+      "Habló ante el pueblo y fue aclamado como dios",
+      "No dio gloria a Dios",
+      "Rey romano",
+      "Fue castigado por un ángel",
+      "Murió de forma terrible",
+      "Aparece en el libro de Hechos"
+    ],
+    "imagen": "src/assets/herodes.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 9,
+    "nombre": "Simón el Mago",
+    "fuente": "Biblia",
+    "razon_orgullo": "Quiso comprar el don del Espíritu Santo para exaltarse a sí mismo.",
+    "pistas": [
+      "Deseaba poder por orgullo",
+      "Fue bautizado por Felipe",
+      "Fue reprendido por Pedro",
+      "Ofreció dinero por poder espiritual",
+      "Mago de Samaria",
+      "Símbolo de la simonía"
+    ],
+    "imagen": "src/assets/simonmago.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 10,
+    "nombre": "Sansón",
+    "fuente": "Biblia",
+    "razon_orgullo": "Confiaba en su fuerza más que en Dios, y fue derrotado por su arrogancia y orgullo.",
+    "pistas": [
+      "Juez de Israel",
+      "Perdió su fuerza",
+      "Tenía gran fuerza",
+      "Reveló su secreto por orgullo",
+      "Fue seducido por Dalila",
+      "Murió derribando un templo"
+    ],
+    "imagen": "src/assets/sanson.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 11,
+    "nombre": "Caín",
+    "fuente": "Biblia",
+    "razon_orgullo": "Se enojó porque Dios no aceptó su ofrenda y mató a su hermano por orgullo.",
+    "pistas": [
+      "Ofreció un sacrificio sin fe",
+      "Dios no lo aceptó",
+      "Recibió una marca de castigo",
+      "Primer asesino",
+      "Mató a Abel",
+      "Hijo de Adán y Eva"
+    ],
+    "imagen": "src/assets/cain.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 12,
+    "nombre": "Jonás",
+    "fuente": "Biblia",
+    "razon_orgullo": "No quería predicar a Nínive por creer que ellos no merecían misericordia.",
+    "pistas": [
+      "Se enojó por la misericordia de Dios",
+      "Dios le dio una lección",
+      "Profeta fugitivo",
+      "Fue tragado por un pez",
+      "Predicó en Nínive",
+      "Se refugió bajo una planta"
+    ],
+    "imagen": "src/assets/jonas.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 13,
+    "nombre": "El Rey Salomón",
+    "fuente": "Biblia",
+    "razon_orgullo": "Se volvió orgulloso por su sabiduría y riquezas, alejándose de Dios.",
+    "pistas": [
+      "Tuvo muchas esposas",
+      "Se apartó de Dios",
+      "Conocido por su sabiduría",
+      "Escribió Proverbios y Eclesiastés",
+      "Hijo de David",
+      "Construyó el Templo"
+    ],
+    "imagen": "src/assets/salomon.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 14,
+    "nombre": "Absalón",
+    "fuente": "Biblia",
+    "razon_orgullo": "Quiso arrebatar el trono a su padre David por ambición y orgullo.",
+    "pistas": [
+      "Su orgullo lo destruyó",
+      "Era muy atractivo",
+      "Conspiró contra su padre",
+      "Murió colgado de un árbol",
+      "Hijo de David",
+      "Fue atravesado por Joab"
+    ],
+    "imagen": "src/assets/absalon.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 15,
+    "nombre": "Belsasar",
+    "fuente": "Biblia",
+    "razon_orgullo": "Usó los utensilios sagrados en una fiesta y fue juzgado por su soberbia.",
+    "pistas": [
+      "Rey de Babilonia",
+      "Símbolo de orgullo profano",
+      "Daniel interpretó el mensaje",
+      "Hizo una fiesta con copas del templo",
+      "Vio una mano escribir en la pared",
+      "Murió esa misma noche"
+    ],
+    "imagen": "src/assets/belsasar.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 16,
+    "nombre": "Fariseos",
+    "fuente": "Biblia",
+    "razon_orgullo": "Se consideraban justos y despreciaban a otros. Su orgullo religioso les impidió aceptar la verdad y aceptar a Jesús.",
+    "pistas": [
+      "Rechazaban a Jesús y sus enseñanzas.",
+      "Expertos en la ley mosaica.",
+      "Oraban para ser vistos por la gente.",
+      "Grupo religioso judío estricto.",
+      "Imponían cargas pesadas al pueblo.",
+      "Fueron llamados 'sepulcros blanqueados'."
+    ],
+    "imagen": "src/assets/fariseos.png",
+    "estado": "no adivinado"
+  },
+  {
+    "id": 17,
+    "nombre": "Babel",
+    "fuente": "Biblia",
+    "razon_orgullo": "Los habitantes quisieron construir una torre para alcanzar el cielo y hacerse famosos. Su orgullo colectivo llevó a la confusión de lenguas y dispersión.",
+    "pistas": [
+      "Lugar de una antigua ciudad.",
+      "Construyeron una torre muy alta.",
+      "Querían alcanzar el cielo.",
+      "Buscaban hacerse famosos.",
+      "Dios confundió su lenguaje.",
+      "Fueron dispersados por toda la tierra."
+    ],
+    "imagen": "src/assets/babel.png",
+    "estado": "no adivinado"
+  },
+  {
+    "id": 18,
+    "nombre": "Jeroboam",
+    "fuente": "Biblia",
+    "razon_orgullo": "Creó falsos ídolos para asegurar su reino. Su arrogancia y temor a perder poder lo llevaron a la idolatría.",
+    "pistas": [
+      "Temía perder su reino.",
+      "Instaló altares en Betel.",
+      "Desvió al pueblo de Dios.",
+      "Construyó becerros de oro.",
+      "Primer rey del reino del norte.",
+      "Fue castigado por profetas."
+    ],
+    "imagen": "src/assets/jeroban.png",
+    "estado": "no adivinado"
+  },
+  {
+    "id": 19,
+    "nombre": "Jezabel",
+    "fuente": "Biblia",
+    "razon_orgullo": "Rechazó a Dios y promovió la idolatría en Israel. Su soberbia y manipulación causaron gran maldad y persecución.",
+    "pistas": [
+      "Mujer extranjera.",
+      "Apoyó cultos paganos.",
+      "Perseguía a los profetas de Dios.",
+      "Reina de Israel.",
+      "Ordenó la muerte de Naboth.",
+      "Murió violentamente."
+    ],
+    "imagen": "src/assets/jezabel.png",
+    "estado": "no adivinado"
+  },
+  {
+    "id": 20,
+    "nombre": "Rey David",
+    "fuente": "Biblia",
+    "razon_orgullo": "Su orgullo fue corregido por Dios y se convirtió en un rey conforme a Su corazón. A pesar de sus faltas, supo arrepentirse y humillarse ante Dios.",
+    "pistas": [
+      "Cometió errores graves.",
+      "Cantor y poeta.",
+      "Fue rey de Israel.",
+      "Pastor de ovejas.",
+      "Venció a un gigante.",
+      "Escribió muchos salmos."
+    ],
+    "imagen": "src/assets/david.png",
+    "estado": "no adivinado"
+  },
+  {
+    "id": 21,
+    "nombre": "Lot",
+    "fuente": "Biblia",
+    "razon_orgullo": "Su orgullo personal puso en peligro a su familia. Eligió vivir cerca de Sodoma a pesar de su maldad, confiando en su juicio.",
+    "pistas": [
+      "Fue advertido por ángeles.",
+      "Vivió cerca de ciudades corruptas.",
+      "Escapó antes de la destrucción.",
+      "Eligió la llanura fértil.",
+      "Pariente de Abraham.",
+      "Su esposa se convirtió en estatua de sal."
+    ],
+    "imagen": "src/assets/lot.png",
+    "estado": "no adivinado"
+  },
+  {
+    "id": 22,
+    "nombre": "Balaam",
+    "fuente": "Biblia",
+    "razon_orgullo": "Su ambición le llevó a profetizar bajo presión, mostrando orgullo., Buscó beneficios personales y desobedeció a Dios.",
+    "pistas": [
+      "Profeta extranjero.",
+      "Dios habló a través de él.",
+      "Intentó ganar dinero con maldiciones.",
+      "Fue contratado para maldecir a Israel.",
+      "Tuvo una burra que habló.",
+      "Finalmente bendijo a Israel."
+    ],
+    "imagen": "src/assets/balaam.png",
+    "estado": "no adivinado"
+  },
+  {
+    "id": 23,
+    "nombre": "El rey Ezequías",
+    "fuente": "Biblia",
+    "razon_orgullo": "Su orgullo inicial fue corregido y confió en la ayuda divina. Confiaba en su ejército y fortaleza pero reconoció a Dios.",
+    "justificacion": "",
+    "pistas": [
+      "Fortificó Jerusalén.",
+      "Destruyó altares paganos.",
+      "Oró a Dios en tiempos difíciles.",
+      "Rey de Judá.",
+      "Enfermo y recuperado milagrosamente.",
+      "Confesó su dependencia de Dios."
+    ],
+    "imagen": "src/assets/Ezequias.png",
+    "estado": "no adivinado"
+  },
+  {
+    "id": 24,
+    "nombre": "Tony Stark",
+    "fuente": "Película Iron Man",
+    "razon_orgullo": "Conocido por su arrogancia como Iron Man antes de madurar.",
+    "pistas": [
+      "Multimillonario",
+      "Ingeniero brillante",
+      "Sarcástico",
+      "Creador de armaduras",
+      "Miembro de los Vengadores",
+      "Aprendió humildad con el tiempo"
+    ],
+    "imagen": "src/assets/tony.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 25,
+    "nombre": "Doctor Strange",
+    "fuente": "Serie Doctor Strange",
+    "razon_orgullo": "Cirujano arrogante antes de su transformación espiritual.",
+    "pistas": [
+      "Sufrió un accidente",
+      "Aprendió magia",
+      "Neurocirujano",
+      "Protege la realidad",
+      "Fue entrenado por el Anciano",
+      "Arrogante pero valiente"
+    ],
+    "imagen": "src/assets/strange.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 26,
+    "nombre": "Scar",
+    "fuente": "Película El Rey León.",
+    "razon_orgullo": "Traicionó a su hermano por ambición en El Rey León.",
+    "pistas": [
+      "Hermano del rey",
+      "Reinó con miedo",
+      "Tenía una cicatriz",
+      "Le gustan las hienas",
+      "Mató a Mufasa",
+      "Fue derrocado por Simba"
+    ],
+    "imagen": "src/assets/scar.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 27,
+    "nombre": "Darth Vader",
+    "fuente": "Película Star Wars",
+    "razon_orgullo": "Su caída comenzó por orgullo y deseo de poder.",
+    "pistas": [
+      "Cayó al lado oscuro",
+      "Usa una máscara",
+      "Padre de Luke",
+      "Sith poderoso",
+      "Antes fue Anakin",
+      "Redimido al final"
+    ],
+    "imagen": "src/assets/dart.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 28,
+    "nombre": "Loki",
+    "fuente": "Serie Loki",
+    "razon_orgullo": "Dios del engaño y la soberbia en el universo Marvel.",
+    "pistas": [
+      "Aparece en muchas películas",
+      "A veces ayuda, a veces traiciona",
+      "Es muy carismático",
+      "Dios del engaño",
+      "Quería el trono de Asgard",
+      "Hermano de Thor"
+    ],
+    "imagen": "src/assets/loki.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 29,
+    "nombre": "Miranda Priestly",
+    "fuente": "Película El diablo viste a la moda",
+    "razon_orgullo": "Editora exigente y arrogante en 'El diablo viste a la moda'.",
+    "pistas": [
+      "Editora de revista",
+      "Fría y exigente",
+      "Siempre elegante",
+      "Hace llorar a sus asistentes",
+      "Meryl Streep la interpretó",
+      "No da las gracias fácilmente"
+    ],
+    "imagen": "src/assets/miranda.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 30,
+    "nombre": "Gaston",
+    "fuente": "Película La Bella y la Bestia",
+    "razon_orgullo": "Pretendiente arrogante de Bella en 'La Bella y la Bestia'.",
+    "pistas": [
+      "Cazador musculoso",
+      "Todos lo admiran",
+      "Cae por su soberbia",
+      "No acepta el rechazo",
+      "Quiere casarse con Bella",
+      "Lidera una turba contra la Bestia"
+    ],
+    "imagen": "src/assets/Gaston.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 31,
+    "nombre": "Doctor House",
+    "fuente": "Serie Doctor House",
+    "razon_orgullo": "Médico brillante pero extremadamente arrogante y sarcástico.",
+    "pistas": [
+      "Trabaja en un hospital",
+      "Adicto a los analgésicos",
+      "Resuelve casos médicos difíciles",
+      "Es extremadamente sarcástico",
+      "Camina con bastón",
+      "Serie protagonizada por Hugh Laurie"
+    ],
+    "imagen": "src/assets/house.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 32,
+    "nombre": "Sheldon Cooper",
+    "fuente": "Serie The Big Bang Theory",
+    "razon_orgullo": "Se considera intelectualmente superior a todos los que le rodean.",
+    "pistas": [
+      "Físico teórico",
+      "Tiene comportamientos obsesivos",
+      "Evita el contacto físico",
+      "Cree tener siempre la razón",
+      "Dice 'Bazinga' al bromear",
+      "Personaje de 'The Big Bang Theory'"
+    ],
+    "imagen": "src/assets/cheldon.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 33,
+    "nombre": "Homero Simpson",
+    "fuente": "Serie The Simpson",
+    "razon_orgullo": "A pesar de su ignorancia, actúa como si supiera más que todos, tomando decisiones impulsivas por orgullo.",
+    "pistas": [
+      "Trabaja en una planta nuclear",
+      "Es descuidado pero afortunado",
+      "Le gusta la cerveza Duff",
+      "Tiene una familia peculiar",
+      "Frase famosa: ¡D'oh!",
+      "Es el padre de Los Simpson"
+    ],
+    "imagen": "src/assets/homero.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 34,
+    "nombre": "Maléfica",
+    "fuente": "Película Maléfica",
+    "razon_orgullo": "Fue rechazada y reaccionó con ira y orgullo lanzando una maldición por despecho.",
+    "pistas": [
+      "Tiene cuernos y capa negra",
+      "Controla el fuego verde",
+      "Fue traicionada por amor",
+      "Protege a los seres del bosque",
+      "Es antagonista de 'La Bella Durmiente'",
+      "Angelina Jolie la interpretó"
+    ],
+    "imagen": "src/assets/malefica.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 35,
+    "nombre": "Severus Snape",
+    "fuente": "Película Harry Potter",
+    "razon_orgullo": "Su orgullo y resentimiento marcaron su relación con Harry Potter, aunque finalmente mostró lealtad.",
+    "pistas": [
+      "Tiene una actitud fría",
+      "Profesor de pociones",
+      "Protege a Harry en secreto",
+      "Personaje de 'Harry Potter'",
+      "Rivaliza con James Potter",
+      "Pertenece a Slytherin"
+    ],
+    "imagen": "src/assets/Severus.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 36,
+    "nombre": "Gollum",
+    "fuente": "Película El señor de los Anillos",
+    "razon_orgullo": "Su obsesión por el Anillo lo llevó a la locura y la traición.",
+    "pistas": [
+      "Criatura de 'El Señor de los Anillos'",
+      "Buscó el Anillo Único",
+      "Luchó contra Frodo y Sam",
+      "Tenía dos personalidades",
+      "Vivía en las Montañas Nubladas",
+      "Su orgullo lo llevó a la perdición"
+    ],
+    "imagen": "src/assets/golum.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 37,
+    "nombre": "El Joker",
+    "fuente": "Película Batman",
+    "razon_orgullo": "Su locura y orgullo lo llevaron a convertirse en el enemigo de Batman.",
+    "pistas": [
+      "Crea caos y destrucción",
+      "Inteligente y manipulador",
+      "Usa maquillaje de payaso",
+      "Villano de Gotham",
+      "Rival de Batman",
+      "Aparece en 'The Dark Knight'"
+    ],
+    "imagen": "src/assets/jocker.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 38,
+    "nombre": "Vegeta",
+    "fuente": "Serie - Dragon Ball",
+    "razon_orgullo": "Príncipe de los saiyajin, siempre ha sido orgulloso de su raza y poder, lo que lo ha llevado a rivalizar constantemente con Gokú.",
+    "pistas": [
+      "Tuvo una rivalidad eterna con su aliado",
+      "Por orgullo se negó a pedir ayuda",
+      "Por orgullo no aceptó su derrota",
+      "Es el príncipe de una raza guerrera",
+      "Entrenó intensamente bajo gravedad aumentada",
+      "Fue controlado por Babidi pero conservó su orgullo"
+    ],
+    "imagen": "src/assets/vegueta.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 39,
+    "nombre": "Quico",
+    "fuente": "El Chavo del 8",
+    "razon_orgullo": "Siempre se mostró presumido por tener más juguetes y dinero que los demás niños de la vecindad. Tenia envidia del chavo y el chavo era pobre.",
+    "pistas": [
+      "Dice que su papá es marino",
+      "Presume constantemente sus juguetes",
+      "Vive con su mamá sobreprotectora",
+      "Hace pucheros cuando no le salen las cosas",
+      "Le tiene miedo a Don Ramón",
+      "Su frase famosa: ¡Cállate, cállate, cállate que me desesperas!"
+    ],
+    "imagen": "src/assets/quico.png",
+    "estado": "adivinado"
+  },
+  {
+    "id": 40,
+    "nombre": "Lord Farquaad",
+    "fuente": "Película Shrek",
+    "razon_orgullo": "Su orgullo y obsesión y por la perfección y el poder lo llevó a despreciar a los seres mágicos y querer casarse con una princesa por estatus.",
+    "pistas": [
+      "Gobernante obsesionado con el orden",
+      "Despreció a los personajes de cuentos",
+      "Creó un reino sin seres mágicos",
+      "Quería casarse con una princesa",
+      "Vivía en Duloc",
+      "Bajo de estatura con un gran ego"
+    ],
+    "imagen": "src/assets/lord.png",
+    "estado": "adivinado"
+  }
+]
